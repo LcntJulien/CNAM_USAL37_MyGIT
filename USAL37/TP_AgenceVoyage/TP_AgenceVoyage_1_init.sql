@@ -3,11 +3,11 @@
 -- DML (INSERT UPDATE DELETE)
 -- DQL (SELECT)
 
-DROP DATABASE IF EXISTS usal37_agence;
+DROP DATABASE IF EXISTS usal37_agence_v;
 
-CREATE DATABASE usal37_agence DEFAULT CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_unicode_ci';
+CREATE DATABASE usal37_agence_v DEFAULT CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_unicode_ci';
 
-USE usal37_agence;
+USE usal37_agence_v;
 
 /*  CHARACTER SET 'utf8' COLLATE 'utf8_unicode_ci' */
 

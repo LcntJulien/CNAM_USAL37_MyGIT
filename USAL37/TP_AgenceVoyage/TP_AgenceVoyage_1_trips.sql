@@ -1,4 +1,4 @@
-USE usal37_agence;
+USE usal37_agence_v;
 
 select * from cities;
 
